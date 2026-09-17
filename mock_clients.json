@@ -1,0 +1,47 @@
+[
+  {
+    "client_name": "Ramadan Corporation",
+    "project_name": "Odoo 17 Configuration Audit & Rollout",
+    "current_phase": "System Configuration",
+    "last_update": "2026-09-10",
+    "last_update_note": "Chart of Accounts and taxes finalized; inventory module configuration in progress.",
+    "next_milestone": "Data Migration kickoff",
+    "next_milestone_date": "2026-09-22"
+  },
+  {
+    "client_name": "Al Faiz Builders",
+    "project_name": "QuickBooks to Odoo Migration",
+    "current_phase": "Data Migration",
+    "last_update": "2026-09-08",
+    "last_update_note": "Historical invoices and vendor bills migrated; bank reconciliation data pending client upload.",
+    "next_milestone": "User Acceptance Testing (UAT)",
+    "next_milestone_date": "2026-09-25"
+  },
+  {
+    "client_name": "Bethak School Network",
+    "project_name": "Multi-branch Odoo ERP Implementation",
+    "current_phase": "User Training",
+    "last_update": "2026-09-12",
+    "last_update_note": "Admin and finance staff trained on core modules; branch coordinators' session scheduled next.",
+    "next_milestone": "Go-Live Support",
+    "next_milestone_date": "2026-09-30"
+  },
+  {
+    "client_name": "Moumin Group",
+    "project_name": "TeamSpoor–Odoo 17 Field Force Connector",
+    "current_phase": "Custom Development",
+    "last_update": "2026-09-14",
+    "last_update_note": "Connector module handling live field-force sync is in active development and internal testing.",
+    "next_milestone": "User Acceptance Testing (UAT)",
+    "next_milestone_date": "2026-10-05"
+  },
+  {
+    "client_name": "Pie In the Sky",
+    "project_name": "Odoo Technical Support & Automation",
+    "current_phase": "Continuous Improvement",
+    "last_update": "2026-09-15",
+    "last_update_note": "Live on Odoo; ongoing automation rules and stock reporting enhancements being rolled out.",
+    "next_milestone": "Next automation review",
+    "next_milestone_date": "2026-10-01"
+  }
+]
